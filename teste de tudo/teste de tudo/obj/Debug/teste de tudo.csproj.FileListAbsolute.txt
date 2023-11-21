@@ -1,0 +1,10 @@
+C:\Users\guilherme.lmaia\source\repos\atividades\teste de tudo\teste de tudo\bin\Debug\teste de tudo.exe.config
+C:\Users\guilherme.lmaia\source\repos\atividades\teste de tudo\teste de tudo\bin\Debug\teste de tudo.exe
+C:\Users\guilherme.lmaia\source\repos\atividades\teste de tudo\teste de tudo\bin\Debug\teste de tudo.pdb
+C:\Users\guilherme.lmaia\source\repos\atividades\teste de tudo\teste de tudo\obj\Debug\teste de tudo.csproj.AssemblyReference.cache
+C:\Users\guilherme.lmaia\source\repos\atividades\teste de tudo\teste de tudo\obj\Debug\teste_de_tudo.Form1.resources
+C:\Users\guilherme.lmaia\source\repos\atividades\teste de tudo\teste de tudo\obj\Debug\teste_de_tudo.Properties.Resources.resources
+C:\Users\guilherme.lmaia\source\repos\atividades\teste de tudo\teste de tudo\obj\Debug\teste de tudo.csproj.GenerateResource.cache
+C:\Users\guilherme.lmaia\source\repos\atividades\teste de tudo\teste de tudo\obj\Debug\teste de tudo.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.lmaia\source\repos\atividades\teste de tudo\teste de tudo\obj\Debug\teste de tudo.exe
+C:\Users\guilherme.lmaia\source\repos\atividades\teste de tudo\teste de tudo\obj\Debug\teste de tudo.pdb
